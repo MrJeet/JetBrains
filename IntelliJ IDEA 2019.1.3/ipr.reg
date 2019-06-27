@@ -1,0 +1,18 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\.ipr]
+@="IntelliJIDEAProjectFile"
+
+[HKEY_CLASSES_ROOT\IntelliJIDEAProjectFile]
+@="IntelliJ IDEA Project File"
+
+[HKEY_CLASSES_ROOT\IntelliJIDEAProjectFile\DefaultIcon]
+@="C:\\Program Files\\JetBrains\\IntelliJ IDEA 10.0\\bin\\idea.exe,0"
+
+[HKEY_CLASSES_ROOT\IntelliJIDEAProjectFile\shell]
+
+[HKEY_CLASSES_ROOT\IntelliJIDEAProjectFile\shell\open]
+
+[HKEY_CLASSES_ROOT\IntelliJIDEAProjectFile\shell\open\command]
+@="\"C:\\Program Files\\JetBrains\\IntelliJ IDEA 10.0\\bin\\idea.exe" \"%1\""
+

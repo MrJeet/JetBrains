@@ -1,0 +1,15 @@
+{
+  "name": "IntelliJ IDEA",
+  "version": "2019.1.3",
+  "buildNumber": "191.7479.19",
+  "productCode": "IU",
+  "svgIconPath": "bin/idea.svg",
+  "launch": [
+    {
+      "os": "Windows",
+      "launcherPath": "bin/idea64.exe",
+      "javaExecutablePath": "jre64/bin/java.exe",
+      "vmOptionsFilePath": "bin/idea64.exe.vmoptions"
+    }
+  ]
+}
